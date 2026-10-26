@@ -1,0 +1,374 @@
+{
+  "apps": [
+    {
+      "id": "guardian-shield",
+      "title": "GuardianShield Safety",
+      "category": "Parental & Safety",
+      "tagline": "Real-time AI geofencing, panic alerts & screen safety monitoring for families.",
+      "description": "GuardianShield empowers parents with instant location tracking, safe boundary alerts, emergency SOS dispatch, and content filtering. Built with zero privacy compromises and end-to-end encrypted device-to-device streaming.",
+      "version": "3.4.2",
+      "fileSize": "28.4 MB",
+      "minOs": "Android 8.0+",
+      "apkUrl": "/downloads/GuardianShield_v3.4.2.apk",
+      "downloads": 48291,
+      "rating": 4.9,
+      "reviewsCount": 1840,
+      "badges": [
+        "Privacy Certified",
+        "24/7 SOS Alert",
+        "Family Safe",
+        "Verified APK"
+      ],
+      "iconType": "shield",
+      "gradient": "from-blue-600 via-indigo-600 to-cyan-500",
+      "screenshots": [
+        {
+          "id": "s1",
+          "title": "Live Geofence Radar",
+          "description": "Interactive map showing real-time GPS coordinates and safe zones.",
+          "type": "map"
+        },
+        {
+          "id": "s2",
+          "title": "Emergency SOS HUD",
+          "description": "One-touch panic button triggering silent police/family contact broadcast.",
+          "type": "dispatch"
+        },
+        {
+          "id": "s3",
+          "title": "Digital Wellness Analytics",
+          "description": "App usage insights and intelligent content safety filtering.",
+          "type": "stats"
+        }
+      ],
+      "features": [
+        {
+          "id": "f1",
+          "title": "Smart Geofencing",
+          "detail": "Instant push notifications when family members enter or leave designated safe zones.",
+          "icon": "map-pin"
+        },
+        {
+          "id": "f2",
+          "title": "One-Tap Emergency SOS",
+          "detail": "Sends encrypted audio, video snippet, and live coordinates to emergency contacts.",
+          "icon": "bell-ring"
+        },
+        {
+          "id": "f3",
+          "title": "Tamper-Proof Guardian Mode",
+          "detail": "Prevents unauthorized uninstallation or setting changes without guardian PIN.",
+          "icon": "shield-check"
+        }
+      ],
+      "isVisible": true,
+      "featured": true,
+      "updatedAt": "2026-10-25"
+    },
+    {
+      "id": "ciphervault-msg",
+      "title": "CipherVault Messenger",
+      "category": "Encrypted Communications",
+      "tagline": "Zero-knowledge encrypted messaging, self-destructing chats & quantum-resistant keys.",
+      "description": "CipherVault is the premier confidential communication app engineered for total privacy. Features Double Ratchet end-to-end encryption, ephemeral media destruction, anonymous voice calling, and peer-to-peer relaying.",
+      "version": "2.1.0",
+      "fileSize": "19.8 MB",
+      "minOs": "Android 9.0+",
+      "apkUrl": "/downloads/CipherVault_v2.1.0.apk",
+      "downloads": 82140,
+      "rating": 4.9,
+      "reviewsCount": 3410,
+      "badges": [
+        "Zero-Knowledge",
+        "Post-Quantum",
+        "No Metadata",
+        "Verified APK"
+      ],
+      "iconType": "lock",
+      "gradient": "from-emerald-600 via-teal-600 to-cyan-600",
+      "screenshots": [
+        {
+          "id": "s1",
+          "title": "Encrypted Chat Console",
+          "description": "Clean interface with self-destruct timers and anti-screenshot shielding.",
+          "type": "chat"
+        },
+        {
+          "id": "s2",
+          "title": "Quantum Key Exchange",
+          "description": "Visual key fingerprint verification for trusted contact sessions.",
+          "type": "vault"
+        }
+      ],
+      "features": [
+        {
+          "id": "f1",
+          "title": "Post-Quantum Key Exchange",
+          "detail": "Protects communication against future quantum computing decryption threats.",
+          "icon": "key"
+        },
+        {
+          "id": "f2",
+          "title": "Stealth Cover Mode",
+          "detail": "Disguises the app icon as a functional calculator or weather app.",
+          "icon": "eye-off"
+        },
+        {
+          "id": "f3",
+          "title": "Decoy Vault Passcode",
+          "detail": "Opens a secondary clean workspace if forced to unlock under pressure.",
+          "icon": "lock"
+        }
+      ],
+      "isVisible": true,
+      "featured": true,
+      "updatedAt": "2026-10-22"
+    },
+    {
+      "id": "autorescue-mechanic",
+      "title": "AutoRescue Roadside & Mechanic",
+      "category": "Automotive & Roadside",
+      "tagline": "On-demand roadside assistance, mobile mechanic dispatch & OBD-II vehicle diagnostics.",
+      "description": "AutoRescue connects stranded drivers with certified mobile mechanics, tow operators, and battery jump services in under 15 minutes. Includes live mechanic GPS tracking, upfront price lock, and bluetooth OBD-II diagnostic scanning.",
+      "version": "4.0.1",
+      "fileSize": "34.2 MB",
+      "minOs": "Android 8.0+",
+      "apkUrl": "/downloads/AutoRescue_v4.0.1.apk",
+      "downloads": 31920,
+      "rating": 4.8,
+      "reviewsCount": 1120,
+      "badges": [
+        "24/7 Dispatch",
+        "Price Guaranteed",
+        "OBD-II Compatible",
+        "Verified APK"
+      ],
+      "iconType": "wrench",
+      "gradient": "from-amber-600 via-orange-600 to-red-600",
+      "screenshots": [
+        {
+          "id": "s1",
+          "title": "Live Mechanic Radar",
+          "description": "Track nearest service vehicle ETA in real time on the interactive map.",
+          "type": "dispatch"
+        },
+        {
+          "id": "s2",
+          "title": "OBD-II Fault Scanner",
+          "description": "Read engine trouble codes with clear plain-language repair estimates.",
+          "type": "stats"
+        }
+      ],
+      "features": [
+        {
+          "id": "f1",
+          "title": "Sub-15 Min Rapid Dispatch",
+          "detail": "Algorithmic routing dispatches the nearest certified provider directly to your GPS coordinates.",
+          "icon": "truck"
+        },
+        {
+          "id": "f2",
+          "title": "Guaranteed Upfront Quotes",
+          "detail": "Transparent pricing for towing, tire changes, fuel delivery, and lockout services.",
+          "icon": "dollar-sign"
+        },
+        {
+          "id": "f3",
+          "title": "Engine Diagnostic Scanner",
+          "detail": "Connects via Bluetooth OBD-II dongle to diagnose check engine lights immediately.",
+          "icon": "activity"
+        }
+      ],
+      "isVisible": true,
+      "featured": true,
+      "updatedAt": "2026-10-18"
+    },
+    {
+      "id": "cyber-vault-pass",
+      "title": "CyberVault Security Suite",
+      "category": "Cyber Security & Vault",
+      "tagline": "Hardware-backed password manager, dark web breach monitoring & biometric authenticator.",
+      "description": "CyberVault protects your digital identities with hardware-backed zero-knowledge encryption. Includes biometric auto-fill, passkey support, compromised password dark-web alerts, and encrypted file storage.",
+      "version": "1.8.5",
+      "fileSize": "16.5 MB",
+      "minOs": "Android 9.0+",
+      "apkUrl": "/downloads/CyberVault_v1.8.5.apk",
+      "downloads": 27400,
+      "rating": 4.9,
+      "reviewsCount": 950,
+      "badges": [
+        "Passkey Ready",
+        "Dark Web Alert",
+        "AES-256",
+        "Verified APK"
+      ],
+      "iconType": "vault",
+      "gradient": "from-purple-600 via-indigo-700 to-blue-600",
+      "screenshots": [
+        {
+          "id": "s1",
+          "title": "Biometric Authenticator",
+          "description": "Seamless passwordless passkey login and 2FA OTP generator.",
+          "type": "vault"
+        }
+      ],
+      "features": [
+        {
+          "id": "f1",
+          "title": "Zero-Knowledge Vault",
+          "detail": "Your master key never leaves your device. Not even Roigroupes can view your passwords.",
+          "icon": "shield-alert"
+        },
+        {
+          "id": "f2",
+          "title": "Dark Web Breach Scanner",
+          "detail": "Automatic continuous scanning for leaked emails and credentials in data dumps.",
+          "icon": "radar"
+        }
+      ],
+      "isVisible": true,
+      "featured": false,
+      "updatedAt": "2026-10-15"
+    }
+  ],
+  "banners": [
+    {
+      "id": "banner-1",
+      "title": "Autumn Security Event",
+      "message": "Upgrade to Pro or Family tier today and get 40% off annual billing + lifetime GuardianShield upgrades.",
+      "ctaText": "View Pricing Tiers",
+      "ctaLink": "#pricing",
+      "type": "promo",
+      "placement": "top_bar",
+      "isActive": true,
+      "createdAt": "2026-10-24"
+    },
+    {
+      "id": "banner-2",
+      "title": "AutoRescue v4.0 Released!",
+      "message": "New OBD-II Bluetooth diagnostic integration is now live for all roadside subscribers.",
+      "ctaText": "Download Update",
+      "ctaLink": "#apps",
+      "type": "announcement",
+      "placement": "inline_grid",
+      "isActive": true,
+      "appId": "autorescue-mechanic",
+      "createdAt": "2026-10-23"
+    }
+  ],
+  "subscriptions": [
+    {
+      "id": "sub-101",
+      "userName": "Elena Rostova",
+      "userEmail": "elena.rostova@techcorp.io",
+      "planTier": "Family/Enterprise",
+      "status": "Active",
+      "billingCycle": "Annual",
+      "amountPaid": 149.99,
+      "joinedAt": "2026-08-12",
+      "expiresAt": "2027-08-12"
+    },
+    {
+      "id": "sub-102",
+      "userName": "Marcus Vance",
+      "userEmail": "marcus.v@cyberdev.net",
+      "planTier": "Pro",
+      "status": "Active",
+      "billingCycle": "Monthly",
+      "amountPaid": 9.99,
+      "joinedAt": "2026-09-01",
+      "expiresAt": "2026-11-01"
+    },
+    {
+      "id": "sub-103",
+      "userName": "Sophia Martinez",
+      "userEmail": "s.martinez@logistics.com",
+      "planTier": "Pro",
+      "status": "Active",
+      "billingCycle": "Annual",
+      "amountPaid": 89.99,
+      "joinedAt": "2026-09-15",
+      "expiresAt": "2027-09-15"
+    },
+    {
+      "id": "sub-104",
+      "userName": "David Chen",
+      "userEmail": "d.chen@gmail.com",
+      "planTier": "Free",
+      "status": "Active",
+      "billingCycle": "Monthly",
+      "amountPaid": 0,
+      "joinedAt": "2026-10-02",
+      "expiresAt": "2099-12-31"
+    },
+    {
+      "id": "sub-105",
+      "userName": "Hannah Abbott",
+      "userEmail": "h.abbott@mobility.org",
+      "planTier": "Family/Enterprise",
+      "status": "Pending",
+      "billingCycle": "Annual",
+      "amountPaid": 149.99,
+      "joinedAt": "2026-10-24",
+      "expiresAt": "2026-10-31"
+    }
+  ],
+  "tickets": [
+    {
+      "id": "t-801",
+      "userName": "Alexander Wright",
+      "userEmail": "alex.w@gmail.com",
+      "subject": "Geofence notification delay on Android 14",
+      "appId": "guardian-shield",
+      "appName": "GuardianShield Safety",
+      "severity": "Medium",
+      "message": "I noticed a 2 minute delay when my daughter enters the school zone. Is battery saver restricting background location?",
+      "status": "In Progress",
+      "createdAt": "2026-10-24 14:20"
+    },
+    {
+      "id": "t-802",
+      "userName": "Samantha Reed",
+      "userEmail": "s.reed@mechanicspoint.com",
+      "subject": "Question regarding OBD-II Bluetooth scanner compatibility",
+      "appId": "autorescue-mechanic",
+      "appName": "AutoRescue Roadside & Mechanic",
+      "severity": "Low",
+      "message": "Does AutoRescue v4.0 support ELM327 Bluetooth 4.0 adapters for VW vehicles?",
+      "status": "Open",
+      "createdAt": "2026-10-25 01:10"
+    },
+    {
+      "id": "t-803",
+      "userName": "Jordan Lee",
+      "userEmail": "j.lee@encrypt.org",
+      "subject": "Request for custom enterprise key rotation",
+      "appId": "ciphervault-msg",
+      "appName": "CipherVault Messenger",
+      "severity": "High",
+      "message": "Our organization requires automated HSM hardware key rotation for team chats. Can we integrate with AWS KMS?",
+      "status": "Open",
+      "createdAt": "2026-10-25 02:05"
+    }
+  ],
+  "downloadLogs": [
+    {
+      "id": "dl-1792920302525-102",
+      "appId": "guardian-shield",
+      "timestamp": "2026-10-25T09:25:02.525Z",
+      "ip": "::1"
+    },
+    {
+      "id": "log-1",
+      "appId": "guardian-shield",
+      "timestamp": "2026-10-25T08:23:47.957Z",
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "log-2",
+      "appId": "ciphervault-msg",
+      "timestamp": "2026-10-25T08:53:47.958Z",
+      "ip": "127.0.0.1"
+    }
+  ]
+}

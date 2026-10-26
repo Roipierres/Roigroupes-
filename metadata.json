@@ -1,0 +1,6 @@
+{
+  "name": "Roigroupes.Com",
+  "description": "منصة لبرمجة و تطوير التطبيقات - Official ecosystem portal for Roigroupes mobile applications (RG).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

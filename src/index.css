@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    font-family: 'Plus Jakarta Sans', 'Cairo', 'Tajawal', system-ui, -apple-system, sans-serif;
+  }
+  [dir="rtl"] {
+    font-family: 'Cairo', 'Tajawal', 'Plus Jakarta Sans', system-ui, sans-serif;
+  }
+}
